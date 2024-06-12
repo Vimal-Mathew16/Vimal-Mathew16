@@ -21,14 +21,14 @@
 
 ### 📫 How to Reach Me
 
-- [LinkedIn](www.linkedin.com/in/vimal-mathew-b-6a2566231)
+- [LinkedIn](https://www.linkedin.com/in/vimal-mathew-b-6a2566231)
 - [Email](mailto:bvimimathew@gmail.com)
 
 ### 🌟 Projects & Contributions
 
 Here are some of my recent projects:
 
-- [Project Name](https://github.com/yourusername/project-name): A brief description of the project.
+- [Parking-Space-Management](https://github.com/Vimal-Mathew16/Parking-Space-Management): The Parking Space Management System optimizes parking facility operations, ensuring efficient vehicle tracking and maximizing space utilization through a user-friendly platform.
 - [Another Project](https://github.com/yourusername/another-project): A brief description of the project.
 
 Feel free to check out my repositories and connect with me for collaboration!
