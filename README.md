@@ -17,7 +17,7 @@
 
 ### 📈 GitHub Stats
 
-![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vimal-Mathew16&show_icons=true&theme=radical)
 
 ### 📫 How to Reach Me
 
