@@ -1,4 +1,4 @@
-Vimal Mathew B
+# Vimal Mathew B
 👨‍💻 3rd Year Student | Artificial Intelligence & Data Science
 
 🎓 Pursuing a degree in Artificial Intelligence and Data Science. Currently in my third year, I am passionate about coding, problem-solving, and leveraging technology to solve real-world challenges.
