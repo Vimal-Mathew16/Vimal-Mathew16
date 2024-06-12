@@ -29,7 +29,7 @@
 Here are some of my recent projects:
 
 - [Parking-Space-Management](https://github.com/Vimal-Mathew16/Parking-Space-Management): The Parking Space Management System optimizes parking facility operations, ensuring efficient vehicle tracking and maximizing space utilization through a user-friendly platform.
-- [Another Project](https://github.com/yourusername/another-project): A brief description of the project.
+- [Text-to-Image](https://github.com/Vimal-Mathew16/Text-to-Image): Text-to-Image technology transforms textual descriptions into lifelike images using advanced machine learning algorithms like GANs, offering applications in graphic design, content creation, and virtual environment generation.
 
 Feel free to check out my repositories and connect with me for collaboration!
 
