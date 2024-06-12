@@ -21,8 +21,8 @@
 
 ### 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](www.linkedin.com/in/vimal-mathew-b-6a2566231)
+- [Email](mailto:bvimimathew@gmail.com)
 
 ### 🌟 Projects & Contributions
 
@@ -35,4 +35,4 @@ Feel free to check out my repositories and connect with me for collaboration!
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Vimal-Mathew16](https://github.com/Vimal-Mathew16)
