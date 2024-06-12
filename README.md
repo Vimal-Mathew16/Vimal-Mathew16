@@ -1,15 +1,38 @@
-# Vimal Mathew B
-👨‍💻 3rd Year Student | Artificial Intelligence & Data Science
+# Hi there, I'm Vimal Mathew B 👋
 
-🎓 Pursuing a degree in Artificial Intelligence and Data Science. Currently in my third year, I am passionate about coding, problem-solving, and leveraging technology to solve real-world challenges.
+### 👨‍💻 About Me
 
-💼 Aspiring software developer, seeking opportunities to apply my knowledge and skills in a dynamic and innovative environment. Eager to contribute to impactful projects and continuously learn and grow in the field of software development.
+- 🎓 I'm a 3rd-year student pursuing a degree in Artificial Intelligence and Data Science.
+- 💼 I'm a fresher actively searching for software development opportunities.
+- 💡 I have a keen interest in coding and problem-solving.
+- 🌱 I'm constantly learning and exploring new technologies in AI and data science.
+- 🤝 I'm looking forward to collaborating on exciting projects and contributing to open-source communities.
 
-🔍 Interests:
+### 🔧 Technologies & Tools
 
-Coding
-Problem-solving
-Machine Learning
-Data Analysis
-Software Development
-📫 Let's connect and collaborate on GitHub!
+- **Languages**: Python, Java, C++
+- **Frameworks & Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
+- **Tools**: Git, GitHub, Jupyter Notebook, Visual Studio Code
+- **Areas of Interest**: Machine Learning, Data Analysis, Software Development, AI Research
+
+### 📈 GitHub Stats
+
+![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:your-email@example.com)
+
+### 🌟 Projects & Contributions
+
+Here are some of my recent projects:
+
+- [Project Name](https://github.com/yourusername/project-name): A brief description of the project.
+- [Another Project](https://github.com/yourusername/another-project): A brief description of the project.
+
+Feel free to check out my repositories and connect with me for collaboration!
+
+---
+
+⭐️ From [yourusername](https://github.com/yourusername)
