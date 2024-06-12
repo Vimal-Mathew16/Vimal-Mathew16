@@ -1,16 +1,15 @@
-## Hi there 👋
+Vimal Mathew B
+👨‍💻 3rd Year Student | Artificial Intelligence & Data Science
 
-<!--
-**Vimal-Mathew16/Vimal-Mathew16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing a degree in Artificial Intelligence and Data Science. Currently in my third year, I am passionate about coding, problem-solving, and leveraging technology to solve real-world challenges.
 
-Here are some ideas to get you started:
+💼 Aspiring software developer, seeking opportunities to apply my knowledge and skills in a dynamic and innovative environment. Eager to contribute to impactful projects and continuously learn and grow in the field of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Interests:
+
+Coding
+Problem-solving
+Machine Learning
+Data Analysis
+Software Development
+📫 Let's connect and collaborate on GitHub!
